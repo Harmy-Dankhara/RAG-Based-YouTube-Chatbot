@@ -10,7 +10,7 @@ Original file is located at
 import os
 
 # Set Gemini API Key
-os.environ["GOOGLE_API_KEY"] = "AIzaSyAF8g_pO2a-3G4seRlFy9UmsAvMXVUfEAQ"
+os.environ["GOOGLE_API_KEY"] = ""
 
 """1. INDEXING A. DATA **INTERGRATION**"""
 
